@@ -32,5 +32,5 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 5. Submit a pull request.
 
 ## Credits
-This project was created by Pranav Darak(https://github.com/pranavdarak)
+This project was created by Pranav Darak (https://github.com/pranavdarak)
 
